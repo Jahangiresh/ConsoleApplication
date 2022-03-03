@@ -1,0 +1,16 @@
+C:\Users\jahangiresh\source\repos\ConsoleAppFinish\ConsoleAppFinish\bin\Debug\net5.0\ConsoleAppFinish.exe
+C:\Users\jahangiresh\source\repos\ConsoleAppFinish\ConsoleAppFinish\bin\Debug\net5.0\ConsoleAppFinish.deps.json
+C:\Users\jahangiresh\source\repos\ConsoleAppFinish\ConsoleAppFinish\bin\Debug\net5.0\ConsoleAppFinish.runtimeconfig.json
+C:\Users\jahangiresh\source\repos\ConsoleAppFinish\ConsoleAppFinish\bin\Debug\net5.0\ConsoleAppFinish.runtimeconfig.dev.json
+C:\Users\jahangiresh\source\repos\ConsoleAppFinish\ConsoleAppFinish\bin\Debug\net5.0\ConsoleAppFinish.dll
+C:\Users\jahangiresh\source\repos\ConsoleAppFinish\ConsoleAppFinish\bin\Debug\net5.0\ref\ConsoleAppFinish.dll
+C:\Users\jahangiresh\source\repos\ConsoleAppFinish\ConsoleAppFinish\bin\Debug\net5.0\ConsoleAppFinish.pdb
+C:\Users\jahangiresh\source\repos\ConsoleAppFinish\ConsoleAppFinish\obj\Debug\net5.0\ConsoleAppFinish.csproj.AssemblyReference.cache
+C:\Users\jahangiresh\source\repos\ConsoleAppFinish\ConsoleAppFinish\obj\Debug\net5.0\ConsoleAppFinish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jahangiresh\source\repos\ConsoleAppFinish\ConsoleAppFinish\obj\Debug\net5.0\ConsoleAppFinish.AssemblyInfoInputs.cache
+C:\Users\jahangiresh\source\repos\ConsoleAppFinish\ConsoleAppFinish\obj\Debug\net5.0\ConsoleAppFinish.AssemblyInfo.cs
+C:\Users\jahangiresh\source\repos\ConsoleAppFinish\ConsoleAppFinish\obj\Debug\net5.0\ConsoleAppFinish.csproj.CoreCompileInputs.cache
+C:\Users\jahangiresh\source\repos\ConsoleAppFinish\ConsoleAppFinish\obj\Debug\net5.0\ConsoleAppFinish.dll
+C:\Users\jahangiresh\source\repos\ConsoleAppFinish\ConsoleAppFinish\obj\Debug\net5.0\ref\ConsoleAppFinish.dll
+C:\Users\jahangiresh\source\repos\ConsoleAppFinish\ConsoleAppFinish\obj\Debug\net5.0\ConsoleAppFinish.pdb
+C:\Users\jahangiresh\source\repos\ConsoleAppFinish\ConsoleAppFinish\obj\Debug\net5.0\ConsoleAppFinish.genruntimeconfig.cache
