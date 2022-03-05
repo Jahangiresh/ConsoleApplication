@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ConsoleAppFinal
 {
@@ -21,14 +21,41 @@ namespace ConsoleAppFinal
                             Console.WriteLine("qrup no daxil edin");
                             string no;
                             no = Console.ReadLine();
-                            if (true)
+                           
+                            if (no!="")
                             {
-
+                                foreach (Category c in System.Enum.GetValues(typeof(Category)))
+                                {
+                                    Console.WriteLine($"{(int)c} {c}");
+                                }
+                                int category;
+                                string catStr=Console.ReadLine();
+                                bool resultCat=int.TryParse(catStr,out category);
+                                if (resultCat)
+                                {
+                                    switch (category)
+                                    {
+                                        case (int)Category.Programming:
+                                            ServiceCode serviceCode=new ServiceCode();
+                                            string No = serviceCode.CreateGroup(online, offline, Category.Programming, no);
+                                            Console.WriteLine($"{No} succesfully created");
+                                        default:
+                                            break;
+                                    }
+                                }
+                                else
+                                {
+                                    Console.WriteLine("please choose valid category");
+                                }
+                            }
+                            else
+                            {
+                                Console.WriteLine("please type something not whitespace");
                             }
                             break;
                         case 2:
 
-                            break;
+                            break;  
                         case 3:
 
                         case 4:
@@ -49,7 +76,7 @@ namespace ConsoleAppFinal
                 }
                 else
                 {
-                    Console.WriteLine("xahish edirem mezelenmeyin");
+                    Console.WriteLine("xahish edirem 0-6 arasinda reqem secin");
                 }
 
             } while (selection != 0);
