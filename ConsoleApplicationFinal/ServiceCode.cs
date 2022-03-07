@@ -93,7 +93,7 @@ namespace ConsoleAppFinal
         {
             if (fullname.Length!=2)
             {
-                return "please typevalid Student Name";
+                return "please type valid Student Name";
             }
             Student student = new Student(fullname,groupno);
             _students.Add(student);
